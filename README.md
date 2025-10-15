@@ -2,11 +2,12 @@
 
 Double majored in Computer Engineering and Molecular Biology & Genetics with a focus on AI and Cognitive Science, I’m passionate about using artificial intelligence and game development to create impactful tools in healthcare and interactive media.
 
- 🎓 Check out our graduation project: [SeizureXpert](https://github.com/acemcakmak/Senior-Design-Project)
+ 🎓 Check out our graduation project: [SeizureXpert](https://github.com/acemcakmak/Senior-Design-Project) | [View Poster](https://drive.google.com/file/d/1isNqFlFB_CaISlrfjx6fDwH0GWG3uumr/view?usp=sharing)
 
- 🎮 Check out our Java-native 2D game project: [RoKUe-Like](https://github.com/comp302-KURBAN/RoKUe-Like)
+ 🎮 Check out our Java-native 2D game project: [RoKUe-Like](https://github.com/comp302-KURBAN/RoKUe-Like) | [View Presentation](https://docs.google.com/presentation/d/1itT8SFLQgMzfXAXgUOZc8UdykydPvqTf/edit?usp=sharing&ouid=100004052202539712579&rtpof=true&sd=true)
 
- ⛏️ Check out our text mining project: [Text-Mining-Project](https://github.com/acemcakmak/text-mining-project)
+
+ ⛏️ Check out our text mining project: [Text-Mining-Project](https://github.com/acemcakmak/text-mining-project) | [View Poster](https://drive.google.com/file/d/1tz6zQbdsxuVoedQiWL2QRagh4ATNekil/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
